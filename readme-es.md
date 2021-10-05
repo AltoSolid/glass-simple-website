@@ -5,10 +5,10 @@ Se han realizado ciertas modificaciones al mismo código.
 Fue muy divertido realizarlo. :)
 
 ## Language versions of readme
-[English version]()
+[English version](https://github.com/AltoSolid/glass-simple-website)
 
-[한국어 버전]()
+[한국어 버전](https://github.com/AltoSolid/glass-simple-website/blob/master/readme-ko.md)
 
 ## Result
-![image]()
+![image](https://github.com/AltoSolid/glass-simple-website/blob/master/Images/image.png)
 

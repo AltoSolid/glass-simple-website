@@ -5,9 +5,9 @@ Obviously I made some modifications while I was following the video.
 This was very fun :)
 
 ## Language versions of readme
-[Versión en español]()
+[Versión en español](https://github.com/AltoSolid/glass-simple-website/blob/master/readme-es.md)
 
-[한국어 버전]()
+[한국어 버전](https://github.com/AltoSolid/glass-simple-website/blob/master/readme-ko.md)
 
 ## Result
-![image]()
+![image](https://github.com/AltoSolid/glass-simple-website/blob/master/Images/image.png)

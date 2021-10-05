@@ -4,9 +4,9 @@
 정말 재미있었다 :)
 
 ## Readme의 언어 버전
-[Versión en español]()
+[Versión en español](https://github.com/AltoSolid/glass-simple-website/blob/master/readme-es.md)
 
-[English version]()
+[English version](https://github.com/AltoSolid/glass-simple-website)
 
 ## 결과
-![image]()
+![image](https://github.com/AltoSolid/glass-simple-website/blob/master/Images/image.png)
