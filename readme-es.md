@@ -4,11 +4,11 @@ Se han realizado ciertas modificaciones al mismo código.
 
 Fue muy divertido realizarlo. :)
 
-## Language versions of readme
+## Idiomas de readme
 [English version](https://github.com/AltoSolid/glass-simple-website)
 
 [한국어 버전](https://github.com/AltoSolid/glass-simple-website/blob/master/readme-ko.md)
 
-## Result
+## Resultado
 ![image](https://github.com/AltoSolid/glass-simple-website/blob/master/Images/image.png)
 
